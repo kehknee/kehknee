@@ -1,13 +1,15 @@
 <img align="center" src="./images/header.png">
 
 <div align="center">
-## Hey!
+<section>
+  Hey! 👋
+</section>
 </div>
 
 <p align="center">
-• 🇻🇳 Vietnamese 
-• 🖥️ Computer Science Major
-• 🎓 Class of 2026
+• 🇻🇳 Vietnamese <br>
+• 🖥️ Computer Science Major <br>
+• 🎓 Class of 2026 <br>
 • <details><summary>🪷 Anime and Games</summary></details>
   <ul>
     <li><a href="https://anilist.co/user/imagine/"><img src="https://img.shields.io/badge/AniList-AniList-blue?style=for-the-badge&logo=Anilist&logoColor=white&labelColor=blue&color=blue&label="></li>
