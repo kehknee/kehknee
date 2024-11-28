@@ -2,10 +2,9 @@
 
 <div align="center">
 <section>
-  Hey! 👋
+##Hey! 👋
 </section>
 </div>
-
 <p align="center">
 • 🇻🇳 Vietnamese <br>
 • 🖥️ Computer Science Major <br>
