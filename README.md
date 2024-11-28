@@ -21,6 +21,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,react,vscode,py,cpp,mysql,github,discord,blender,unreal,ps,linkedin&perline=7"><br><br>
+  <img width=10% src="./images/heart-love.gif">
 </div>
 
 
