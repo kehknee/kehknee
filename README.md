@@ -1,16 +1,17 @@
-## Hi there 👋
+<img align="center" src="./images/header.png">
 
-<!--
-**kehknee/kehknee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<center>
+# Hi there 👋
+</center>
 
-Here are some ideas to get you started:
+<p align="center">
+* 🇻🇳 Vietnamese 
+* 🖥️ Computer Science Major
+* 🎓 Class of 2026
+* <details><summary>🪷 Anime and Games</summary></details>
+  <ul>
+    <li><a href="https://anilist.co/user/imagine/"><img src="https://img.shields.io/badge/AniList-AniList-blue?style=for-the-badge&logo=Anilist&logoColor=white&labelColor=blue&color=blue&label="></li>
+    <li><a href="https://steamcommunity.com/id/spelljinxer/"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"></a></li>
+  </ul>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
