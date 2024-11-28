@@ -13,7 +13,7 @@
 <p><br>
   
 * 🇻🇳 Vietnamese
-<img src="./images/shinkansen.gif" align="right" width=40%></img>
+<img src="./images/shinkansen.gif" align="right" width=35%></img>
 * 🖥️ Computer Science Major
 * 🎓 Class of 2026
 * 🪷 Anime and Games
@@ -30,7 +30,7 @@
 
 <div align="center">
   
-# Discord
+# Discord 📨
 
 <img align="center" src="https://lanyard.cnrad.dev/api/216063503943860226?idleMessage=From%20Together%20Unto%20Death&hideStatus=true&showDisplayName=true&hideDecoration=false" /></a>
 
