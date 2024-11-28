@@ -13,7 +13,7 @@
 <p><br>
   
 * 🇻🇳 Vietnamese
-<img src="./images/moon-leaves.gif" align="right" width=50%></img>
+<img src="./images/shinkansen.gif" align="right" width=40%></img>
 * 🖥️ Computer Science Major
 * 🎓 Class of 2026
 * 🪷 Anime and Games
@@ -44,6 +44,12 @@
 
 <div align="center">
 <img width=20% src="./images/marin-kitagawa.gif">
+</div>
+
+<div align="center">
+<br><br><br><br>
+"月が綺麗ですね..."
+
 </div>
 
 
