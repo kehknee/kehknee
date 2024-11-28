@@ -1,7 +1,7 @@
 <img align="center" src="./images/header.png">
 
 <div align="center">
-# Hey!
+## Hey!
 </div>
 
 <p align="center">
