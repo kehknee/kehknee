@@ -14,7 +14,7 @@
 <p><br>
   
 * 🇻🇳 Vietnamese
-<img src="./images/shinkansen.gif" align="right" width=35%></img>
+<img src="./images/sunset-train-riding.gif" align="right" width=29%></img>
 * 🖥️ Computer Science Major
 * 🎓 Class of 2026
 * 🪷 Anime and Games
