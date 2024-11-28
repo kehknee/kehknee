@@ -1,6 +1,7 @@
-<img align="center" src="./images/header.png">
+<div align="center">
+<img src="./images/header.png" width=80%><br><br><br>
 <p align="center">"It's too soon for freedom and equality. For humanity, it'll always be too soon."</p>
-
+</div>
 
 <br>
 
