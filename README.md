@@ -13,14 +13,16 @@
 <p><br>
   
 * 🇻🇳 Vietnamese
+<img src="./images/moon-leaves.gif" align="right" width=50%></img>
 * 🖥️ Computer Science Major
 * 🎓 Class of 2026
 * 🪷 Anime and Games
 * ☑️ Programmer and Software Engineer
-  
+* 🌐 https://kehknee.github.io/react-portfolio/ 
+<br><br><br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,vscode,py,cpp,mysql,github,discord,blender,unreal,ps,linkedin&perline=7"><br><br>
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,vscode,py,cpp,mysql,github,unreal,ps,linkedin&perline=6"><br><br>
   <img width=10% src="./images/heart-love.gif">
 </div>
 
