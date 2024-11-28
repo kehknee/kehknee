@@ -1,8 +1,8 @@
 <img align="center" src="./images/header.png">
 
-<center>
-# Hi there 👋
-</center>
+<div align="center">
+# Hey!
+</div>
 
 <p align="center">
 • 🇻🇳 Vietnamese 
