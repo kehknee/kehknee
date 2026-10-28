@@ -16,8 +16,8 @@
 * 🇻🇳 Vietnamese
 <img src="./images/sunset-train-riding.gif" align="right" width=29%></img>
 * 🖥️ Computer Science Major
-* 🎓 Class of 2026
-* 🪷  Gacha
+* 🎓 B.S in CS 2026
+* 🪷  Gacha 
 * ☑️ Programmer and Software Engineer
 * 🌐 https://kehknee.github.io/react-portfolio/ 
 <br><br><br>
