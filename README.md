@@ -38,7 +38,6 @@
 </div>
 
 <div align="center">
-<a href="https://steamcommunity.com/id/kennycs2/"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"></a>
 <a href="https://anilist.co/user/Imagine/"><img src="https://img.shields.io/badge/AniList-AniList-blue?style=for-the-badge&logo=Anilist&logoColor=white&labelColor=blue&color=blue&label="></a>
 <a href="https://open.spotify.com/user/3hyqswenlxfxkxqg3aw8e3h9z?si=ff30bb8ef1594bb0"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a><br><br>
 </div>
