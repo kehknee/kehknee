@@ -1,6 +1,6 @@
 <div align="center">
 <img src="./images/header.png" width=80%><br><br><br>
-<p align="center">"He wasn’t immune to injury. He was simply so wounded that nothing would hurt him anymore."</p>
+<!-- <p align="center">"He wasn’t immune to injury. He was simply so wounded that nothing would hurt him anymore."</p> -->
 </div>
 
 <br>
